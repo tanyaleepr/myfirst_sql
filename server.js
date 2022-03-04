@@ -18,6 +18,13 @@ const connection = mysql.createConnection({
     database: 'employeesDB'
 });
 
+connection.connect(function (err) {
+    if (err) throw err;
+    console.log("connected as id " + connection.threadId);
+    console.log(`Employee Manager`)
+    // runs the app
+    firstPrompt();
+});
 // function which prompts the user for what action they should take
 function firstPrompt() {
 
