@@ -7,14 +7,13 @@ var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "~Ma009090",
+  password: "",
   database: "employeesDB"
 });
 
 // connect to the mysql server and sql database
 connection.connect(function (err) {
   if (err) throw err;
-  // run the start function after the connection is made to prompt the user
   firstPrompt();
 });
 
@@ -159,7 +158,6 @@ function promptDepartment(departmentChoices) {
 
 
 //Add Employee
-
 // array
 
 function addEmployee() {
