@@ -20,8 +20,9 @@
   "homepage": "https://github.com/tanyaleepr/myfirst_sql#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^8.2.0",
     "dotenv": "^16.0.0",
-    "mysql2": "^2.3.3"
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
   }
 }
