@@ -1,3 +1,5 @@
+-- File for the schema's information. This creates the values to be inserted there. 
+
 USE employeesDB;
 
 INSERT INTO department (name)

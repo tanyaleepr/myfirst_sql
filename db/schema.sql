@@ -1,3 +1,4 @@
+-- File for schema, which creates the database and tables
 
 DROP DATABASE IF EXISTS employeesDB;
 
@@ -10,6 +11,7 @@ CREATE TABLE department (
   name VARCHAR(45) NULL,
   PRIMARY KEY (id)
 );
+
 
 CREATE TABLE role (
   id INT NOT NULL AUTO_INCREMENT,
