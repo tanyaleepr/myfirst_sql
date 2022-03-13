@@ -41,8 +41,9 @@ I am currently accepting contributors for other projects.
 <a name="tests"></a>
 
 ## Tests
+[Database Schema from the Module's project] <img width="948" alt="12-sql-homework-demo-01" src="https://user-images.githubusercontent.com/92898110/158072814-dff29d2a-1e5c-4e23-90f6-7670b02a6e52.png">
 
-[Video](https://drive.google.com/file/d/1BrSYokSPs2go-JythbE-Dtr2qlgwzTha/view)
+[Video](https://drive.google.com/file/d/1UZlmTcVp_6rPJkZx9-s_fmrsa13Y2Mm2/view)
 
 When entering the video, you will see step by step of the project.
 <a name="questions"></a>
