@@ -1,10 +1,10 @@
-# Professional README.md Generator
+# My First SQL Project
 
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
 
-This project simplifies the lives of developers by creating a generator that generates an easier and faster README.md.
+This project simplifies the lives of customers by creating a database information that can be viewed and interacted with quickly.
 
 ## Table of Contents
 
@@ -18,12 +18,13 @@ This project simplifies the lives of developers by creating a generator that gen
 
 ## Installation
 
-The project only uses Node.js with npm inquirer, therefore, to use this application you will need to install it in the terminal. After the installation is done, proceed to see the Usage instructions.
+The project uses Node.js with npm inquirer and MySQL in the command-line. Therefore, to use this application you will need to install it in the terminal. After the installation is done, proceed to see the Usage instructions.
+
 <a name="usage"></a>
 
 ## Usage
 
-The usage is easy, as soon as you enter "node index.js" you will see the prompts of multiple questions to fill out. The answers for those questions will be used in the README.md generator.
+The usage is easy, as soon as you enter "node index.js" you will see the prompts of multiple options to choose from department, roles, and employees. The company's database information will be shown in the command-line.
 <a name="license"></a>
 
 ## License
@@ -43,7 +44,7 @@ I am currently accepting contributors for other projects.
 
 [Video](https://drive.google.com/file/d/1BrSYokSPs2go-JythbE-Dtr2qlgwzTha/view)
 
-When entering the video, you will see step by step of the Professional README.md Generator.
+When entering the video, you will see step by step of the project.
 <a name="questions"></a>
 
 ## Questions
